@@ -1,0 +1,79 @@
+name: Feature request
+description: Suggest a new feature or improvement for a Novum Labs project.
+title: "[Feature]: "
+labels:
+  - enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Novum Labs projects!
+        Before submitting, search existing issues for similar suggestions.
+        Please keep your proposal clear, constructive, and focused on the project.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project or repository
+      description: Which Novum Labs project is this request for?
+      placeholder: "e.g., TinyStory, Doubtgate"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or motivation
+      description: What problem, limitation, or unmet need would this feature address?
+      placeholder: Describe the problem you are trying to solve.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed solution
+      description: Describe the feature or improvement you would like to see.
+      placeholder: Explain your idea and how it could work.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_benefits
+    attributes:
+      label: Expected benefits
+      description: Who would benefit from this feature, and how?
+      placeholder: Describe the expected impact on users, developers, or researchers.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you considered any alternative solutions or workarounds?
+      placeholder: Describe any alternatives, if applicable.
+    validations:
+      required: false
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation ideas
+      description: Share technical suggestions, examples, or relevant references.
+      placeholder: Add implementation details if you have them.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I searched existing issues for similar requests.
+          required: true
+        - label: This request is relevant to the selected project.
+          required: true
+        - label: I have provided enough information to explain the proposed improvement.
+          required: true
