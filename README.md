@@ -34,7 +34,7 @@ We combine scientific exploration, software engineering, and continuous experime
 
 **LLM Research** — Building and validating the foundations of language-model training, data processing, and evaluation.
 
-**QUANTARA** — A planned research initiative exploring language models for fundamental physics, including quantum mechanics, string theory, and quantum gravity.
+**QuantumGPT** — A planned research initiative exploring language models for fundamental physics, including quantum mechanics, string theory, and quantum gravity.
 
 ## Our Engineering Principles
 
