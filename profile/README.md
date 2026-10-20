@@ -57,4 +57,28 @@ Explore our repositories, report issues, share ideas, and contribute to projects
 
 ---
 
+## 💼 Investor Relations & Capital Allocation
+
+**Novum Labs Private Limited** is an Indian startup incorporated in 2025 under the **Companies Act, 2013**, operating in Artificial Intelligence, EdTech, and DeepTech research.
+
+### 🏛️ Regulatory Compliance & Investment Framework
+
+We accept equity investments and convertible capital from both domestic (Indian) and foreign investors in strict compliance with the laws of the Republic of India:
+
+| Category | Investor Type | Allowed Regulatory Routes & Instruments | Compliance Framework |
+| :--- | :--- | :--- | :--- |
+| **Domestic** | Indian Angels, AIFs, VCs, Corporate Entities | Private Placement under Sec 42/62(1)(c) of Companies Act, 2013. Equity Shares, CCPS, or Convertible Notes. | RoC (Form PAS-3, MGT-14) |
+| **Foreign (FDI)** | International VCs, Angel Networks, Overseas Entities | 100% Foreign Direct Investment (FDI) under the **Automatic Route** for AI & Technology services. | FEMA / RBI FIRMS Portal (FC-GPR / FIRC) |
+
+### 🚀 Eligible Instruments for Investors
+* **Compulsorily Convertible Preference Shares (CCPS)**
+* **Equity Shares** (Priced at or above Fair Market Value as certified by a Registered Valuer / CA)
+* **Convertible Notes** *(Minimum ₹25 Lakhs per tranche for DPIIT-recognized startups under FEMA Non-Debt Instruments Rules)*
+
+### 📬 Investment & Pitch Inquiries
+Qualified investors, venture capital funds, and institutional partners can reach out through:
+* **Official Website / Contact:** [Novum Labs Profile](https://github.com/NovumLabs)
+
+---
+
 *Research with rigor. Engineer with purpose. Build for impact.*
