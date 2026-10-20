@@ -1,0 +1,92 @@
+name: Bug report
+description: Report a reproducible bug or unexpected behavior in a Novum Labs project.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve Novum Labs software. Before submitting, search existing issues for a similar report. Please do not include passwords, API keys, personal data, or other secrets.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project or repository
+      description: Which Novum Labs project is affected?
+      placeholder: "e.g., TinyStory"
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Bug summary
+      description: Clearly describe the problem.
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: List the steps or commands needed to reproduce the problem.
+      placeholder: |
+        1. Run ...
+        2. Provide ...
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What happened instead? Include relevant error messages.
+    validations:
+      required: true
+
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating system
+      placeholder: "e.g., Windows 11, Ubuntu 24.04, macOS"
+    validations:
+      required: false
+
+  - type: input
+    id: environment
+    attributes:
+      label: Runtime and environment
+      description: Include relevant Python, Node.js, framework, or library versions.
+      placeholder: "e.g., Python 3.x, PyTorch version"
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or additional context
+      description: Provide relevant logs or a minimal code example. Remove secrets and personal information.
+      render: text
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I searched existing issues for a similar report.
+          required: true
+        - label: I removed secrets and sensitive information from this report.
+          required: true
