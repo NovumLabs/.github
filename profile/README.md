@@ -1,3 +1,4 @@
+![Novum Labs Header Banner](Github%20Header.png)
 # Novum Labs
 
 ### AI Research | LLM Development | Software Engineering | Open Source
