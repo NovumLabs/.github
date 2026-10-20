@@ -57,28 +57,27 @@ Explore our repositories, report issues, share ideas, and contribute to projects
 
 ---
 
+---
+
 ## 💼 Investor Relations & Capital Allocation
 
-**Novum Labs Private Limited** is an Indian startup incorporated in 2025 under the **Companies Act, 2013**, operating in Artificial Intelligence, EdTech, and DeepTech research.
+**Novum Labs Private Limited** is an Indian technology entity incorporated in 2025 under the **Companies Act, 2013**, focusing on DeepTech, Artificial Intelligence, and EdTech research.
 
 ### 🏛️ Regulatory Compliance & Investment Framework
 
-We accept equity investments and convertible capital from both domestic (Indian) and foreign investors in strict compliance with the laws of the Republic of India:
+We welcome equity investment from domestic and international venture capital funds, institutional investors, and accredited angel networks under Indian regulatory guidelines:
 
-| Category | Investor Type | Allowed Regulatory Routes & Instruments | Compliance Framework |
+| Investor Category | Permissible Instruments | Applicable Regulatory Framework | Compliance Requirements |
 | :--- | :--- | :--- | :--- |
-| **Domestic** | Indian Angels, AIFs, VCs, Corporate Entities | Private Placement under Sec 42/62(1)(c) of Companies Act, 2013. Equity Shares, CCPS, or Convertible Notes. | RoC (Form PAS-3, MGT-14) |
-| **Foreign (FDI)** | International VCs, Angel Networks, Overseas Entities | 100% Foreign Direct Investment (FDI) under the **Automatic Route** for AI & Technology services. | FEMA / RBI FIRMS Portal (FC-GPR / FIRC) |
+| **Domestic Investors** (Indian Angels, AIFs, VCs) | Equity Shares, Compulsorily Convertible Preference Shares (CCPS) | Companies Act, 2013 (Sec 42 & Sec 62(1)(c) - Private Placement) | RoC Filings (Form PAS-4, PAS-3, MGT-14) |
+| **Foreign Investors** (Overseas VCs, Foreign Angels) | Equity Shares, CCPS (under Automatic Route) | FEMA / RBI Foreign Direct Investment (FDI) Regulations | FC-GPR filing on RBI FIRMS Portal within 30 days of allotment |
 
-### 🚀 Eligible Instruments for Investors
-* **Compulsorily Convertible Preference Shares (CCPS)**
-* **Equity Shares** (Priced at or above Fair Market Value as certified by a Registered Valuer / CA)
-* **Convertible Notes** *(Minimum ₹25 Lakhs per tranche for DPIIT-recognized startups under FEMA Non-Debt Instruments Rules)*
+*Note: Convertible Notes will be enabled upon completion of our DPIIT Startup Recognition process.*
 
-### 📬 Investment & Pitch Inquiries
-Qualified investors, venture capital funds, and institutional partners can reach out through:
-* **Official Website / Contact:** [Novum Labs Profile](https://github.com/NovumLabs)
+### 🚀 Standard Equity Investment Channels
+* **Compulsorily Convertible Preference Shares (CCPS):** Preferred route for seed and Series A investors to protect equity terms prior to conversion.
+* **Equity Shares:** Issued at or above Fair Market Value (FMV) as determined by a CA/Registered Valuer.
 
----
-
-*Research with rigor. Engineer with purpose. Build for impact.*
+### 📬 Investor Inquiries & Deal Flow
+Institutional partners, angel networks, and venture funds interested in primary equity participation can connect directly:
+* **Official Profile:** [Novum Labs Profile](https://github.com/NovumLabs)
