@@ -1,4 +1,4 @@
-![Novum Labs Header Banner](https://github.com/NovumLabs/.github/blob/main/profile/Github%20Header.png)
+![Novum Labs Header Banner](https://github.com/NovumLabs/.github/blob/main/profile/Github_Header.png)
 # Novum Labs
 
 ### AI Research | LLM Development | Software Engineering | Open Source
